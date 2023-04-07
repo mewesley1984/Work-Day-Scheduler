@@ -27,7 +27,7 @@ THEN the saved events persist
 ## Mock Up
 The following animation demonstrates the application functionality:
 
-![](.assets/mock-image.gif)
+![](./assets/images/mock-image.gif)
 
 https://mewesley1984.github.io/Work-Day-Scheduler/
 
